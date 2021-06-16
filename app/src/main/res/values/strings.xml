@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dog App</string>
+    <string name="menu_remote">Remote</string>
+
+    <string name="label_title_remote">Categories</string>
+
+    <string name="label_title_loader">Paging with footer for showing loader</string>
+    <string name="desc_doggo">doggo</string>
+    <string name="button_retry">Retry</string>
+    <string name="label_error">Something went wrong, please try again</string>
+</resources>

@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Paging3"
+rootProject.name = "Paging3withKotlinMVVM"
